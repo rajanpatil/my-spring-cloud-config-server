@@ -5,7 +5,7 @@ This is example of sping cloud config server.
 * Java 8
 * Maven 3
 * Git
-* Clone `my-config` repo and update the path in `application.properties`
+* `my-config` repo with `<app name>-<environment>.yml` and update the path in `application.properties`
 
 ### How to run
 you can run it locally using command `mvn spring-boot:run`
